@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish Artist on 8xWorld</title>
-    <link>https://localhost:1313/examples/blowfish-artist/</link>
+    <link>https://8x.world/examples/blowfish-artist/</link>
     <description>Recent content in Blowfish Artist on 8xWorld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 Xuan Cheung</copyright>
-    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/examples/blowfish-artist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://8x.world/examples/blowfish-artist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowfish Artist</title>
-      <link>https://localhost:1313/examples/blowfish-artist/_index.it/</link>
+      <link>https://8x.world/examples/blowfish-artist/_index.it/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/examples/blowfish-artist/_index.it/</guid>
+      <guid>https://8x.world/examples/blowfish-artist/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist</title>
-      <link>https://localhost:1313/examples/blowfish-artist/_index.ja/</link>
+      <link>https://8x.world/examples/blowfish-artist/_index.ja/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/examples/blowfish-artist/_index.ja/</guid>
+      <guid>https://8x.world/examples/blowfish-artist/_index.ja/</guid>
       <description></description>
       
     </item>

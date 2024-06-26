@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/en/authors/</loc>
+    <loc>https://8x.world/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/authors/"
+      href="https://8x.world/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/authors/"
+      href="https://8x.world/en/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/en/</loc>
+    <loc>https://8x.world/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/"
+      href="https://8x.world/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/"
+      href="https://8x.world/en/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/en/categories/</loc>
+    <loc>https://8x.world/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/categories/"
+      href="https://8x.world/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/categories/"
+      href="https://8x.world/en/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/en/series/</loc>
+    <loc>https://8x.world/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/series/"
+      href="https://8x.world/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/series/"
+      href="https://8x.world/en/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/en/tags/</loc>
+    <loc>https://8x.world/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/tags/"
+      href="https://8x.world/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/tags/"
+      href="https://8x.world/en/tags/"
     />
   </url>
 </urlset>

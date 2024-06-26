@@ -3,655 +3,655 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/categories/aigc/</loc>
+    <loc>https://8x.world/categories/aigc/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/categories/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/en/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/categories/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/categories/web3/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>https://8x.world/categories/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/tags/"
+      href="https://8x.world/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/tags/"
+      href="https://8x.world/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://8x.world/categories/web3/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://8x.world/tags/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/"
+      href="https://8x.world/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/"
+      href="https://8x.world/tags/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/posts/</loc>
+    <loc>https://8x.world/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://8x.world/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://8x.world/"
+    />
+  </url>
+  <url>
+    <loc>https://8x.world/posts/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/posts/adbds/</loc>
+    <loc>https://8x.world/posts/adbds/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <loc>https://8x.world/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E4%BD%9C%E5%93%81/</loc>
+    <loc>https://8x.world/tags/%E4%BD%9C%E5%93%81/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://8x.world/tags/%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/posts/shortcodes/</loc>
+    <loc>https://8x.world/posts/shortcodes/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%96%87%E6%A1%A3/</loc>
+    <loc>https://8x.world/tags/%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/blowfish/</loc>
+    <loc>https://8x.world/tags/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/categories/blowfish/</loc>
+    <loc>https://8x.world/categories/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/hugo/</loc>
+    <loc>https://8x.world/tags/hugo/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/authors/nunocoracao/</loc>
+    <loc>https://8x.world/authors/nunocoracao/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/categories/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://8x.world/categories/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/guides/</loc>
+    <loc>https://8x.world/guides/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://8x.world/tags/%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/authors/</loc>
+    <loc>https://8x.world/authors/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/authors/"
+      href="https://8x.world/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/authors/"
+      href="https://8x.world/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/examples/</loc>
+    <loc>https://8x.world/examples/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/authors/secondauthor/</loc>
+    <loc>https://8x.world/authors/secondauthor/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/multiple-authors/</loc>
+    <loc>https://8x.world/samples/multiple-authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</loc>
+    <loc>https://8x.world/tags/%E7%A4%BA%E4%BE%8B/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/</loc>
+    <loc>https://8x.world/samples/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E4%BD%9C%E8%80%85/</loc>
+    <loc>https://8x.world/tags/%E4%BD%9C%E8%80%85/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/</loc>
+    <loc>https://8x.world/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/thumbnail_sample/</loc>
+    <loc>https://8x.world/samples/thumbnail_sample/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/series/</loc>
+    <loc>https://8x.world/series/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/series/"
+      href="https://8x.world/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/series/"
+      href="https://8x.world/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/series/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://8x.world/series/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/welcome/</loc>
+    <loc>https://8x.world/docs/welcome/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/</loc>
+    <loc>https://8x.world/docs/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%96%B0%E6%89%8B/</loc>
+    <loc>https://8x.world/tags/%E6%96%B0%E6%89%8B/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://8x.world/tags/%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/installation/</loc>
+    <loc>https://8x.world/docs/installation/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/getting-started/</loc>
+    <loc>https://8x.world/docs/getting-started/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%AE%80%E7%A0%81/</loc>
+    <loc>https://8x.world/tags/%E7%AE%80%E7%A0%81/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/configuration/</loc>
+    <loc>https://8x.world/docs/configuration/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%9B%BE%E6%A0%87/</loc>
+    <loc>https://8x.world/tags/%E5%9B%BE%E6%A0%87/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/icons/</loc>
+    <loc>https://8x.world/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/users/</loc>
+    <loc>https://8x.world/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</loc>
+    <loc>https://8x.world/tags/%E5%8F%8B%E9%93%BE/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%B8%83%E5%B1%80/</loc>
+    <loc>https://8x.world/tags/%E5%B8%83%E5%B1%80/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E4%B8%BB%E9%A1%B5/</loc>
+    <loc>https://8x.world/tags/%E4%B8%BB%E9%A1%B5/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/homepage-layout/</loc>
+    <loc>https://8x.world/docs/homepage-layout/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/docs/</loc>
+    <loc>https://8x.world/tags/docs/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/lead/</loc>
+    <loc>https://8x.world/tags/lead/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/mermaid/</loc>
+    <loc>https://8x.world/tags/mermaid/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/shortcodes/</loc>
+    <loc>https://8x.world/docs/shortcodes/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/front-matter/</loc>
+    <loc>https://8x.world/tags/front-matter/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/front-matter/</loc>
+    <loc>https://8x.world/docs/front-matter/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/partials/</loc>
+    <loc>https://8x.world/tags/partials/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/partials/</loc>
+    <loc>https://8x.world/docs/partials/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/multi-author/</loc>
+    <loc>https://8x.world/docs/multi-author/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E8%AF%84%E8%AE%BA/</loc>
+    <loc>https://8x.world/tags/%E8%AF%84%E8%AE%BA/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/thumbnails/</loc>
+    <loc>https://8x.world/docs/thumbnails/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%BB%9F%E8%AE%A1%E6%9C%8D%E5%8A%A1/</loc>
+    <loc>https://8x.world/tags/%E7%BB%9F%E8%AE%A1%E6%9C%8D%E5%8A%A1/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87/</loc>
+    <loc>https://8x.world/tags/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%9A%90%E7%A7%81/</loc>
+    <loc>https://8x.world/tags/%E9%9A%90%E7%A7%81/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%86%85%E5%AE%B9/</loc>
+    <loc>https://8x.world/tags/%E5%86%85%E5%AE%B9/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/content-examples/</loc>
+    <loc>https://8x.world/docs/content-examples/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%B3%BB%E5%88%97/</loc>
+    <loc>https://8x.world/tags/%E7%B3%BB%E5%88%97/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/series/</loc>
+    <loc>https://8x.world/docs/series/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/css/</loc>
+    <loc>https://8x.world/tags/css/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%AB%98%E7%BA%A7/</loc>
+    <loc>https://8x.world/tags/%E9%AB%98%E7%BA%A7/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/advanced-customisation/</loc>
+    <loc>https://8x.world/docs/advanced-customisation/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/github/</loc>
+    <loc>https://8x.world/tags/github/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/netlify/</loc>
+    <loc>https://8x.world/tags/netlify/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://8x.world/tags/%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%89%98%E7%AE%A1/</loc>
+    <loc>https://8x.world/tags/%E6%89%98%E7%AE%A1/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/hosting-deployment/</loc>
+    <loc>https://8x.world/docs/hosting-deployment/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%B8%B2%E6%9F%93%E5%99%A8/</loc>
+    <loc>https://8x.world/tags/%E6%B8%B2%E6%9F%93%E5%99%A8/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/firebase/</loc>
+    <loc>https://8x.world/tags/firebase/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/firebase-views/</loc>
+    <loc>https://8x.world/docs/firebase-views/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E7%82%B9%E8%B5%9E%E9%87%8F/</loc>
+    <loc>https://8x.world/tags/%E7%82%B9%E8%B5%9E%E9%87%8F/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%98%85%E8%AF%BB%E9%87%8F/</loc>
+    <loc>https://8x.world/tags/%E9%98%85%E8%AF%BB%E9%87%8F/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/html/</loc>
+    <loc>https://8x.world/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/markdown/</loc>
+    <loc>https://8x.world/tags/markdown/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/markdown/</loc>
+    <loc>https://8x.world/samples/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/gist/</loc>
+    <loc>https://8x.world/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/twitter/</loc>
+    <loc>https://8x.world/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/vimeo/</loc>
+    <loc>https://8x.world/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/youtube/</loc>
+    <loc>https://8x.world/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/rich-content/</loc>
+    <loc>https://8x.world/samples/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%8B%89%E4%B8%81%E8%AF%AD/</loc>
+    <loc>https://8x.world/tags/%E6%8B%89%E4%B8%81%E8%AF%AD/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%96%87%E6%9C%AC/</loc>
+    <loc>https://8x.world/tags/%E6%96%87%E6%9C%AC/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/katex/</loc>
+    <loc>https://8x.world/tags/katex/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://8x.world/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/mathematical-notation/</loc>
+    <loc>https://8x.world/samples/mathematical-notation/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E8%A1%A8%E6%A0%BC/</loc>
+    <loc>https://8x.world/tags/%E8%A1%A8%E6%A0%BC/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</loc>
+    <loc>https://8x.world/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/diagrams-flowcharts/</loc>
+    <loc>https://8x.world/samples/diagrams-flowcharts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/charts/</loc>
+    <loc>https://8x.world/samples/charts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%9B%BE%E7%89%87/</loc>
+    <loc>https://8x.world/tags/%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/emoji/</loc>
+    <loc>https://8x.world/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/samples/emoji/</loc>
+    <loc>https://8x.world/samples/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <loc>https://8x.world/tags/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/guides/template/</loc>
+    <loc>https://8x.world/guides/template/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/advanced/_index.it/</loc>
+    <loc>https://8x.world/tags/advanced/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/advanced/_index.ja/</loc>
+    <loc>https://8x.world/tags/advanced/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/advanced/</loc>
+    <loc>https://8x.world/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
