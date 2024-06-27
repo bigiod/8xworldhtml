@@ -4,12 +4,26 @@
   <sitemap>
     <loc>https://8x.world/zh-cn/sitemap.xml</loc>
     
-      <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+      <lastmod>9999-08-08T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
     <loc>https://8x.world/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://8x.world/it/sitemap.xml</loc>
+    
+      <lastmod>9999-08-08T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://8x.world/ja/sitemap.xml</loc>
+    
+      <lastmod>9999-08-08T00:00:00+00:00</lastmod>
     
   </sitemap>
   

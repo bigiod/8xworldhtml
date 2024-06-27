@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 Xuan Cheung</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://8x.world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 9999 00:00:00 +0000</lastBuildDate><atom:link href="https://8x.world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一款关于Hogo内容的作品合集展示</title>
       <link>https://8x.world/posts/adbds/</link>
@@ -39,106 +39,6 @@
     </item>
     
     <item>
-      <title>Blowfish Tutorial</title>
-      <link>https://8x.world/examples/blowfish-tutorial/_index.it/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish チュートリアル</title>
-      <link>https://8x.world/examples/blowfish-tutorial/_index.ja/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial - Repo</title>
-      <link>https://8x.world/examples/repo-blowfish-tutorial/_index.it/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish チュートリアル - レポジトリ</title>
-      <link>https://8x.world/examples/repo-blowfish-tutorial/_index.ja/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>https://8x.world/examples/blowfish-lite/_index.it/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-lite/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>https://8x.world/examples/blowfish-lite/_index.ja/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>https://8x.world/examples/blowfish-artist/_index.it/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-artist/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>https://8x.world/examples/blowfish-artist/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>https://8x.world/examples/blowfish-lowkey/_index.it/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-lowkey/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>https://8x.world/examples/blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>多作者</title>
       <link>https://8x.world/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
@@ -166,106 +66,6 @@
       <guid>https://8x.world/docs/welcome/</guid>
       <description>Blowfish 包含了大量的特性功能。 Blowfish 的目标是开发一个简单且轻量级的主题</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://8x.world/docs/welcome/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>https://8x.world/examples/repo-blowfish-lite/_index.it/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-lite/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - レポジトリ</title>
-      <link>https://8x.world/examples/repo-blowfish-lite/_index.ja/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>https://8x.world/examples/repo-blowfish-artist/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-artist/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - レポジトリ</title>
-      <link>https://8x.world/examples/repo-blowfish-artist/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>https://8x.world/examples/repo-blowfish-lowkey/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-lowkey/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - レポジトリ</title>
-      <link>https://8x.world/examples/repo-blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/repo-blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>https://8x.world/examples/blowfish-template/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-template/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>https://8x.world/examples/blowfish-template-repo/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-template-repo/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート</title>
-      <link>https://8x.world/examples/blowfish-template/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-template/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート - GitHub レポジトリ</title>
-      <link>https://8x.world/examples/blowfish-template-repo/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/examples/blowfish-template-repo/_index.ja/</guid>
-      <description></description>
-      
     </item>
     
     <item>
@@ -496,26 +296,6 @@
       <guid>https://8x.world/guides/template/</guid>
       <description>感谢您愿意为 Blowfish 社区做出贡献。 如何开始？ # 这是一篇模板文章，将</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://8x.world/guides/template/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Advanced</title>
-      <link>https://8x.world/tags/advanced/_index.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/tags/advanced/_index.it/</guid>
-      <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
-      
-    </item>
-    
-    <item>
-      <title>高度なタグ</title>
-      <link>https://8x.world/tags/advanced/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://8x.world/tags/advanced/_index.ja/</guid>
-      <description>こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項</description>
-      
     </item>
     
   </channel>

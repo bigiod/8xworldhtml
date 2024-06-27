@@ -8,6 +8,16 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="https://8x.world/it/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://8x.world/ja/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
       href="https://8x.world/authors/"
     />
@@ -21,6 +31,16 @@
     <loc>https://8x.world/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://8x.world/it/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://8x.world/ja/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
@@ -38,6 +58,16 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="https://8x.world/it/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://8x.world/ja/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
       href="https://8x.world/categories/"
     />
@@ -53,6 +83,16 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="https://8x.world/it/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://8x.world/ja/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
       href="https://8x.world/series/"
     />
@@ -66,6 +106,16 @@
     <loc>https://8x.world/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://8x.world/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://8x.world/ja/tags/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
